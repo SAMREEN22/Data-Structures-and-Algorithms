@@ -1,0 +1,5 @@
+•Jump Search is a searching algorithm for sorted arrays.
+•The basic idea is to check fewer elements by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
+•The time complexity of Jump Search is between Linear Search ((O(n)) and Binary Search (O(Log n)).
+•Jump search has an advantage over binary search because we traverse back only once.
+•Binary Search is better than Jump Search but in a system where binary search is costly, we use Jump Search.
