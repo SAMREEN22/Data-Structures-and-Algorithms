@@ -6,9 +6,9 @@
 4. [Interpolation Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/interpolationsearch)
 
 ## Sorting Algorithms
-1. Bubble Sort
-2. Insertion Sort
-3. Selection Sort
-4. Quick Sort
-5. Merge Sort
-6. Heap Sort
+1. [Bubble Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SortingAlgorithm/bubblesort.py)
+2. [Insertion Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SortingAlgorithm/insertionsort.py)
+3. [Selection Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SortingAlgorithm/selectionsort.py)
+4. [Quick Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/SortingAlgorithm/quicksort)
+5. [Merge Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/SortingAlgorithm/mergesort)
+6. [Heap Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/SortingAlgorithm/heapsort)
