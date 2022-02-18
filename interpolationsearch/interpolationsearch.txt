@@ -1,4 +1,0 @@
-•Interpolation search may go to different locations according to the value of the key being searched.
-•To find the position to be searched, it uses following formula:
-pos = low + [(x-arr[low])*(high-low) / (arr[high]-arr[low])]
-•The Interpolation Search is an improvement over Binary Search for instances, where the values in a sorted array are uniformly distributed.
