@@ -1,9 +1,9 @@
 # Data-Structures-and-Algorithms
 ## Searching Algorithms
-1. [Linear Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/linearsearch.c)
-2. [Binary Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/binarysearch.c)
-3. [Jump Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/jumpsearch)
-4. [Interpolation Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/interpolationsearch)
+1. [Linear Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SearchingAlgorithm/linearsearch.c)
+2. [Binary Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SearchingAlgorithm/binarysearch.c)
+3. [Jump Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/SearchingAlgorithm/jumpsearch)
+4. [Interpolation Search](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/tree/main/SearchingAlgorithm/interpolationsearch)
 
 ## Sorting Algorithms
 1. [Bubble Sort](https://github.com/SAMREEN22/Data-Structures-and-Algorithms/blob/main/SortingAlgorithm/bubblesort.py)
