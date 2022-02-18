@@ -1,0 +1,3 @@
+•Merge Sort is similar to the quick sort algorithm as it uses the divide and conquer approach to sort the elements.
+•The sub-lists are divided again and again into halves until the list cannot be divided further.
+•Time complexity of Merge Sort is  θ(nLogn) in all 3 cases (worst, average and best).

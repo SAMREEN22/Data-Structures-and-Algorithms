@@ -1,0 +1,4 @@
+•A heap is a complete binary tree, and the binary tree is a tree in which the node can have the utmost two children.
+•Heapsort is a popular and efficient sorting algorithm.
+•The concept is to eliminate the elements one by one from the heap part of the list, and then insert them into the sorted part of the list.
+•Time complexity of heap sort is O(n logn) in all three cases (best case, average case, and worst case).

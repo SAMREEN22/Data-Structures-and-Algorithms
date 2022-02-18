@@ -1,0 +1,6 @@
+•Quick sort algorithm follows the divide and conquer approach.
+•Divide and conquer is a technique of breaking down the algorithms into subproblems, then solving the subproblems and combining the results back together to solve the original problem.
+•Divide: Pick a pivot element.
+               Partition the array into two sub-arrays such that each element in the left sub-array is less than or equal to the chosen element and each element in the right sub-array is larger than the chosen element.
+•Conquer: Sort both the subarrays with Quicksort.
+•Combine: Combine the sorted arrays.
